@@ -10,3 +10,4 @@ A colorful bouncing ball animation built with **p5.js**, **CSS**, and **HTML**.
 
 ## Run
 Open `index.html` in your browser — no build step needed.
+
